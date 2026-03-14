@@ -5,7 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunnyyadav-cell&label=Profile%20views&color=0e75b6&style=flat" alt="sunnyyadav-cell" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **MERN FULL STACK**
+
+- 👯 I’m Open to collaborate on **Web Development Projects**
 
 - 📫 How to reach me **sunnyjee9234640116@gmail.com**
 
